@@ -1,4 +1,0 @@
-49376809594d2827f9b0770946f0059e7eeca092516d5e50a0b56f855d6d1bd1  goreleaser-01_v0.1.5-next_Linux_x86_64.tar.gz
-4a61ea557a5d0a54c92b5ed365f736b7ef1f65c464911d91528ec376c206fdaa  goreleaser-01_v0.1.5-next_Darwin_i386.tar.gz
-c4f71f3287e719e83e8165466beb6a21a35ff98bc7f6a558a1fe0ee337845c52  goreleaser-01_v0.1.5-next_Linux_i386.tar.gz
-76baa2d2cc2d9bc41fdb8a96290c721e6cdd3c023fafe900b6c2286be3fffcfb  goreleaser-01_v0.1.5-next_Darwin_x86_64.tar.gz
